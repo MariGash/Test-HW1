@@ -23,5 +23,5 @@ void NumberRec(int N)
 NumberRec(N);
 
 
-//пример
+
 // изменения в удаленном 
