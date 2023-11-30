@@ -22,3 +22,5 @@ void NumberRec(int N)
 
 NumberRec(N);
 
+
+//пример
